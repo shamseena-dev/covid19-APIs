@@ -1,2 +1,6 @@
 # covid19-APIs
-covid19-APIs to work on 
+List of covid19-APIs to use:
+
+https://covid-19-apis.postman.com/
+
+https://covid19api.com/
